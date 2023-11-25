@@ -1,4 +1,4 @@
-### Siddhisanket (SiRaskar 
+### Siddhisanket (Sid) Raskar 
 
 <div class="col-sm-8">
 
