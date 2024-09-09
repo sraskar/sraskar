@@ -3,11 +3,11 @@
 <div class="col-sm-8">
 
   <p class="lead">
-    I am a post-doctoral researcher in the Data Sciences group with the<a
+    I am Assistant Computer Scientist at <a
       href="https://www.alcf.anl.gov/">Argonne Leadership Computing Facility(ALCF)</a> at <a
       href="https://www.anl.gov/">Argonne National Laboratory</a>. I work on evaluating the efficacy of AI
-    architectures for scientific machine learning and on the design of next-generation AI architectures for
-    science
+    accelerators for scientific machine learning and on the design of next-generation AI architectures for
+    science.
   </p>
 
   <p class="lead">
