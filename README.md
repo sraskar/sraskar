@@ -3,11 +3,8 @@
 <div class="col-sm-8">
 
   <p class="lead">
-    I am Assistant Computer Scientist at <a
-      href="https://www.alcf.anl.gov/">Argonne Leadership Computing Facility(ALCF)</a> at <a
-      href="https://www.anl.gov/">Argonne National Laboratory</a>. I work on evaluating the efficacy of AI
-    accelerators for scientific machine learning and on the design of next-generation AI architectures for
-    science.
+    I am Data Scientist at <a
+      href="https://www.pnnl.gov/">Pacific Northwest National Laboratory</a>. I work on optimizing the performance and efficiency of scientific machine learning applications.
   </p>
 
   <p class="lead">
@@ -20,13 +17,15 @@
   </p>
 
   <p class="lead">
-    I am interested in pursuing a research-oriented career in the fields of computer architecture,
+    I am interested in pursuing a research in the fields of computer architecture,
     high-performance computing, and machine learning.
   </p>
 
   <p class="lead">
     Research Interests :
   <ul>
+    <li>Machine Learning</li>
+    <li>Large Language Models</li>
     <li>Computing and Dataflow Models</li>
     <li>Computer Architecture and Systems</li>
     <li>Compilers Technology and Runtime Systems</li>
